@@ -1,2 +1,6 @@
 # mpvhq-win32
-win32 builds for mpvhq on arch
+mpvhq built on arch for win64
+
+Includes: youtube-dl (2015.04.26) librtmp lcms libdca
+
+Get in Contact: irc.installgentoo.com #mpvhq-win64
