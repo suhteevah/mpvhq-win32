@@ -34,13 +34,16 @@ currently exists more as a testbed for my own personal improvements, that will
 hopefully all make their way back into mpv.
 
 If you are wondering what's different from mplayer2 and MPlayer, an incomplete
-list of changes is located [here][mplayer-changes].
+list of changes is located on the mpv website.
 
 ## Credits
 
 Thanks to Haasn and everyone over at mpv
+
 Haasn:https://github.com/haasn
+
 mpvhq:https://github.com/haasn/mpvhq
+
 mpv:https://github.com/mpv-player/mpv
 
 ## License 
