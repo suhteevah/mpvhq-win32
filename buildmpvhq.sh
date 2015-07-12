@@ -2,7 +2,7 @@
 
 echo "Cloning mpvhq from github"
 
-cd /home/sativa/mpvhq
+cd ~/mpvhq
 
 git pull
 
@@ -25,15 +25,13 @@ echo "Building mpvhq"
 
 
 echo "Moving files into home"
-cd /home/sativa/mpvhq/build
+cd ~/mpvhq/build
 
-cp mpv.com /home/sativa/mpv.com
-cp mpv.exe /home/sativa/mpv.exe
+cp mpv.* ~/mpv.*
 
-cd /home/sativa/
+cd ~
 
-upx mpv.exe
-upx mpv.com
+upx mpv.*
 
 echo "Finished"
 
