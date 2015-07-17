@@ -27,7 +27,7 @@ echo "Building mpvhq"
 echo "Moving files into home"
 cd ~/mpvhq/build
 
-cp mpv.* ~/mpv.*
+cp mpv.* ~
 
 cd ~
 
